@@ -23,6 +23,7 @@ For the last 5 years, I managed the 4th power unit at the Minsk Thermal Power Pl
 - Git (entry level)
 - HTML (entry level)
 - CSS (entry level)
+
 ---
 
 ## Code example
