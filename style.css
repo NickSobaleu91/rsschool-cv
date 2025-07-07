@@ -1,0 +1,52 @@
+
+body{
+    background-color: rgb(249, 248, 249);
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border: 2px solid black;
+    }
+header, main, footer {
+    background-color: rgb(129, 55, 249);
+    color: white;
+    padding: 20px;
+    }
+table {
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid black;
+}
+footer {
+    text-align: center;
+    font-size: 14px;
+}
+h1{
+    color: rgb(15, 3, 3);
+
+}
+h2 {
+    color: rgb(15, 3, 3);
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 5px; /* вместо padding-bottom (разницы почти нет, но margin чаще для внешнего отступа) */
+}
+p {
+    line-height: 25px;
+}
+footer nav li {
+    display: inline;
+    margin: 0 10px;
+}
+div {
+    padding: 3px;
+}
