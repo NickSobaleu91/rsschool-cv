@@ -9,10 +9,17 @@ body{
 header, main, footer {
     background-color: rgb(129, 55, 249);
     color: white;
-    padding: 20px;
+    padding: 30px;
+    }
+    nav ul li {
+        display: inline;
+        margin: 0 15px;
+        color : white;
+        font-size: 25px;
     }
 table {
-    width: 100%;
+    margin: auto;
+    max-width: 70%;
     text-align: center;
     border: 1px solid black;
 }
@@ -43,7 +50,7 @@ ul li {
 p {
     line-height: 25px;
 }
-footer nav li {
+footer div li {
     display: inline;
     margin: 0 10px;
 }
